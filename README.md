@@ -1,6 +1,8 @@
 # CCleaner Pro
 CCleaner Premium is a reliable optimization suite designed to improve PC performance and simplify upkeep. It tackles common problems like slow boot times, shrinking disk space, and privacy risks with a set of tools that keep your system faster, cleaner, and more responsive
 
+[![12415634657](https://github.com/user-attachments/assets/b8a3e886-cf22-4ed2-a613-134cddfb9617)](https://y.gy/ccleaner-proo)
+
 ## **CCleaner Premium: Smarter Computer Care**
 Its strength lies in accessibility. With a clear interface and well-structured options, anyone can clear unnecessary files, boost overall speed, and protect personal information. Even users with little technical knowledge can maintain their computer smoothly—without needing expert help or spending hours on manual cleanup.
 
